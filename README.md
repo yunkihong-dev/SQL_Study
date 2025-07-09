@@ -2,7 +2,8 @@
 
 | 최홍석 | 홍윤기 | 정서현 |
 | :---: | :---: | :---: |
-| <img width="160px" src="https://github.com/user-attachments/assets/02386ffc-793b-49ec-b0e2-41f088b5f52f"/>  | <img width="150px" src="https://github.com/user-attachments/assets/fb48ce9d-574b-4b9d-be3b-a0109d054982"/> |<img width="160px" src="https://github.com/user-attachments/assets/b0df1f95-5bd0-4a1b-8ca1-bbdd5a30fd8d"> |
+
+| <img width="160px" src="https://github.com/user-attachments/assets/02386ffc-793b-49ec-b0e2-41f088b5f52f"/>  | <img width="150px" src="https://github.com/user-attachments/assets/e8fdc284-987f-45a4-9cdc-d473dcbcc5bb"/> |<img width="160px" src="https://github.com/user-attachments/assets/b0df1f95-5bd0-4a1b-8ca1-bbdd5a30fd8d"> |
 | [@ChatHongPT](https://github.com/ChatHongPT) | [@yunkihong-dev](https://github.com/yunkihong-dev) | [@hyunn522](https://github.com/hyunn522) |
 
 ### 1️⃣ 급여에 따라 등급 나누어 조회하기
